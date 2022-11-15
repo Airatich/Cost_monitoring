@@ -1,5 +1,5 @@
 # Вставь свой user agent внутри кавычек
-user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36'
+user_agent=''
 
 # Введи толщины для Лист_рулон_гк
 thickness_prod1=[4,6,8,10,12,16,18,20,28,32]
